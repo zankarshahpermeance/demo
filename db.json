@@ -1,14 +1,20 @@
 {
   "departments": [
-    { "id": 1, "title": "HR Department" },
-    { "id": 2, "title": "Sales Department" },
-    { "id": 3, "title": "Purchase Department" }
+    { "id": 1, "title": "Account and Finance" },
+    { "id": 2, "title": "Human Resource Management" },
+    { "id": 3, "title": "Production" },
+    { "id": 4, "title": "Purchase" },
+    { "id": 5, "title": "Sales and Marketting" }
   ],
-  "position": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "positions": [
+   { "id": 1, "title": "Accounts receivable/payable specialist" },
+    { "id": 2, "title": "Assessor" },
+    { "id": 3, "title": "Bookkeeper" },
+    { "id": 4, "title": "Cash manager" },
+    { "id": 5, "title": "Tax specialist" },
+    { "id": 6, "title": "Treasurer" }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "organization"
   }
 }
