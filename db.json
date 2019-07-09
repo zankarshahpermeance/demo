@@ -1,11 +1,12 @@
 {
   "departments": [
-    { "id": 1, "title": "Account and Finance" },
-    { "id": 2, "title": "Human Resource Management" },
-    { "id": 3, "title": "Production" },
-    { "id": 4, "title": "Purchase" },
-    { "id": 5, "title": "Sales and Marketting" }
-  ],
+    { "id": 1, "title": "Accounts" },
+    { "id": 2, "title": "Human Resources" },
+    { "id": 3, "title": "Innovation" },
+    { "id": 4, "title": "Procurement" },
+    { "id": 5, "title": "Sales and Marketting" },
+    { "id": 5, "title": "Finance" }
+   ],
   "positions": [
    { "id": 1, "title": "Accounts receivable/payable specialist" },
     { "id": 2, "title": "Assessor" },
